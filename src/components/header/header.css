@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+.incremenet{
+   height: 30px;
+   width: 100px;
+}
+.decrement{
+    height: 30px;
+    width: 100px;
+}
+.middle{
+    padding: 0 20px;
+    margin-top: 5px;
+}
